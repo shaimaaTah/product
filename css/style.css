@@ -69,12 +69,15 @@ h2 {
 
 .button {
     display: inline-block;
-    padding: 13px 50px;
+    padding: 13px 40px;
     background-color: #007bff;
     color: white;
     border-radius: 5px;
-    text-decoration: none;
     margin-top: 10px;
+}
+.button i {
+    margin-right: 8px; 
+    font-size: 18px; 
 }
 
 .button:hover {
